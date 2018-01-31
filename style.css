@@ -1,0 +1,38 @@
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+	.status
+		{background-image:url(http://digital-day.fr/marseille/wp-content/themes/wp_theme_mievent/site/img/loading.gif);}
+		.header{background-color:#0f1726;}
+		.blog-listing h1,.blog-listing h2,.blog-listing h3,.blog-listing h4,.blog-listing h5,.blog-listing h6,.posts-listing h1,.posts-listing h2,.posts-listing h3,.posts-listing h4,.posts-listing h5,.posts-listing h6,.page-heading h1,.sidebar .page_item a,
+				.widget ul li a,td,caption,.tagcloud a,.post-content h1,.blog-listing h2,.post-content h3,.post-content h4,.post-content h5,.post-content h6{color:#363738;}.profile-name-discussion,.read-comment-head span,.nav-close fa{color:#363738!important;}.blog-listing div,.blog-listing p,.blog-listing span,.posts-listing div,.page-heading p,select,input,
+				.posts-listing span,.content,post-content div,
+				.post-content span,.post-content .main-content .post-detail p{color:#5f6061;}.scroll-header,.dropdown-menu{background-color:#0f1726!important;}h1,h2,h3,h4,h5,h6{font-family:Raleway, sans-serif;}#wp-calendar thead tr th, #wp-calendar tbody tr td{border-color:#363738;}h1,h2,h3,h4,h5,h6,.accordion .item .heading,blockquote p{color:#363738;}.border_left,.border_bottom{border-color:#363738;}html, body, div, span, applet, object, iframe, p, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video{font-family:Raleway, sans-serif;}.d-sch i,.fb i{color:#5f6061!important;}body, input, select, textarea, p, .accordion .item .heading .e-title,.accordion .item .content{color:#5f6061;}.tagcloud a{border-color:#5f6061;}a.btn-effect:hover, a.btn-effect:focus,.tabs nav a,.tc{color:#f9ecba;}.social-btn i:hover, .social-btn i:focus,.social-btn:hover i,.md-trigger .fa,.nl-form.ajax-form a:hover,.md-trigger:hover,.page-numbers:hover,.page-numbers:focus,.page-numbers i:hover, .page-numbers i:focus,.page-numbers:hover i{color:#f9ecba!important;}a.fb:hover,a.d-sch:hover,.active span,.d-sch i:hover,.d-sch i:focus,.fb i:hover,.fb i:focus,.d-sch:hover i,.d-sch:focus i,.fb:hover i,.fb:focus i,.author-title,.nl-field-toggle,.nl-form.ajax-form input,.nl-form.ajax-form select,.nl-dd ul li.nl-dd-checked::before,.nl-submit::before,.nl-dd ul li.nl-dd-checked,.nl-dd ul li.nl-dd-checked::before,.nl-submit::before, .nl-field-go::before{color:#8860d0!important;}.tabs nav ul li *:hover,.btn-effect,.tabs nav li.tab-current,#submit,.learn-more-btn,.flex-control-paging li a.flex-active,.flex-control-paging li a:hover,.social-btn:hover, .social-btn:focus,.form-notify button.submit-button,.input-group-btn > .btn:hover, .input-group-btn > .btn:focus, .input-group-btn > .btn:active,
+				.fancy-title.bottom-border h1:after,.fancy-title.bottom-border h2:after,.fancy-title.bottom-border h3:after,
+				.fancy-title.bottom-border h4:after,.fancy-title.bottom-border h5:after,.fancy-title.bottom-border h6:after,.social-ftp a,.seperator,
+				.widget-title,.blog-seperator{background-color:#8860d0;}a, a:hover, a:focus,.accordion .item.open .e-title,.navbar-default .navbar-nav > .active > a,.widget a:hover,
+				.navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus,
+				.navbar-default .navbar-nav > li.active > a,.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus,
+				.md-trigger,.sp-name,.contact-details h2 span,.form-notify  h2,.social-btn,.page-numbers,.page-numbers i,.dropdown-menu > li > a:hover,
+				.dropdown-menu > li > a:focus,.fa,.post-date,.post-cat{color:#8860d0;}blockquote,#title_hr,.flex-control-paging li a,hr,#searchform #s{border-color:#8860d0;}.button.dark, .jp-gui, .header-wrap, .header-navigation ul ul, .select-menu, .search-form, .mobile-search-form, .login-button .tooltip-text, .footer-wrap, .site-footer:after, .site-header:after,.tabs nav ul li,.social-btn,.page-numbers,.flex-control-paging li a{background-color:#25274d;}.author-img img{border-color:#25274d;}.accordion .day,.light-box,.light-box:hover, .light-box:focus{color:#5680e9;}.accordion .item .heading .time,.nl-ti-text ul li.nl-ti-example{border-color:#5680e9;}.page-numbers:hover, .page-numbers:focus{background-color:#5680e9;}.navbar-default .navbar-nav > li > a{font-size:0.91em;}.navbar-default .navbar-nav > li > a,.widget-title h3{color:#25274d;}.navbar-nav > li > a{padding-top:30px;}.navbar-nav > li > a{padding-bottom:30px;}/* enleve bouton buy*/
+.buybutton {
+	display: none;
+}
+
+
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+@media screen and (max-width: 782px) { html {margin-top: 0 !important;}}		
+
+#features > section, #schedule > section, #speaker > section, #package > section, #sponsor, #example-navbar-collapse > ul > li:nth-child(2), #example-navbar-collapse > ul > li:nth-child(3), #example-navbar-collapse > ul > li:nth-child(4), #example-navbar-collapse > ul > li:nth-child(6){
+display: none;
+}
